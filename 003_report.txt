@@ -1,19 +1,19 @@
 MARIO OFFICE REPORT
 
-Date: 2019-08-20
+Date: 2019-12-29
 
-Employee: Diddy The Kong
+Employee: Bill The Bullet
 
 Ongoing Tasks:
+	Working on Level 6
 	Buying extra stabples
-	Working on Level 8
 
 Completed Tasks:
-	Stomped 10 mushrooms
-	Made Mario and Wario come to terms
+	Beat level 4
+	Brought Bowser his coffee
 
 Problems:
-	I just had my tonsils removed
-	Donkey Kong takes up two entire cubicles
+	I can't beat Level 9
+	Waluigi has more sick days than me
 
-Approved By: Mario The Plumber
+Approved By: Daisy The Other One

@@ -1,19 +1,19 @@
 MARIO OFFICE REPORT
 
-Date: 2019-07-20
+Date: 2019-08-30
 
-Employee: Boo The Ghost
+Employee: Bill The Bullet
 
 Ongoing Tasks:
 	Buying extra stabples
-	Working on Level 5
+	Trying to save the princess
 
 Completed Tasks:
-	Stomped 100 mushrooms
 	Cleaned the file cabinet
+	File Mario's taxes
 
 Problems:
-	Donkey Kong takes up two entire cubicles
-	I can't beat Level 10
+	I can't beat Level 9
+	Waluigi has more sick days than me
 
-Approved By: Toad The Mushroom
+Approved By: Waluigi The Skinny

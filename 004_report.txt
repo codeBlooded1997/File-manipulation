@@ -1,19 +1,19 @@
 MARIO OFFICE REPORT
 
-Date: 2019-03-13
+Date: 2019-04-19
 
-Employee: Toad The Mushroom
+Employee: Boo The Ghost
 
 Ongoing Tasks:
-	Working on Level 5
-	Working on Level 6
+	Trying to save the princess
+	Organizing the office reunion party
 
 Completed Tasks:
-	Cleaned the file cabinet
 	Made Mario and Wario come to terms
+	Stomped 50 mushrooms
 
 Problems:
-	I don't want to automate with Python
+	I think I have a crush on my boss
 	I can't beat Level 9
 
-Approved By: Luigi The Brother
+Approved By: Boo The Ghost

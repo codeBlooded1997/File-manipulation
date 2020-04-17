@@ -1,19 +1,19 @@
 MARIO OFFICE REPORT
 
-Date: 2019-06-03
+Date: 2019-09-04
 
-Employee: Diddy The Kong
+Employee: Mario The Plumber
 
 Ongoing Tasks:
-	Working on Level 7
-	Making photo copies from Luigi's photoshoot
+	Figuring out how to jump over man-eating plant
+	Working on Level 6
 
 Completed Tasks:
-	Beat level 1
-	Stomped 10 mushrooms
+	Beat level 3
+	Stomped 100 mushrooms
 
 Problems:
-	I just had my tonsils removed
-	Sometimes I feel empty inside
+	I think I have a crush on my boss
+	I don't want to automate with Python
 
-Approved By: Peach The Helpless
+Approved By: Bowser The Jerk

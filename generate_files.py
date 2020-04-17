@@ -1,6 +1,7 @@
 import static_data
 import datetime
 import random
+import string
 
 def generate_reports(num):
 
@@ -41,4 +42,21 @@ def generate_reports(num):
         # Write the content to the file
         f.write(report_content)
 
-generate_reports(10)
+def generate_bloat(num):
+    """
+    This function generates bloat files so it seems more
+    realistic when we want to manipulate the files later.
+    """
+
+    for current_num in range(num):
+
+        file_name = str(random.randint(1,num)).zfill(3) + \
+                    '_bloatfile_' + \
+                    ''.join(random.choices(string.ascii_lowercase, k=5)) + \
+                    '.txt'
+
+        f = open(file_name, 'w')
+        f.write('Trollollolol ;)')
+
+#generate_reports(10)
+generate_bloat(5)

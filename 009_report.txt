@@ -1,19 +1,19 @@
 MARIO OFFICE REPORT
 
-Date: 2019-04-03
+Date: 2019-10-26
 
-Employee: Mario The Plumber
+Employee: Waluigi The Skinny
 
 Ongoing Tasks:
-	Buying extra stabples
-	Trying to save the princess
+	Organizing the office reunion party
+	Working on Level 5
 
 Completed Tasks:
-	Finished Game of Thrones during work hours
-	Stomped 50 mushrooms
+	Beat level 2
+	Beat level 3
 
 Problems:
-	I think I have a crush on my boss
 	I don't want to automate with Python
+	I don' thinkg Peach is worth it
 
-Approved By: Bowser The Jerk
+Approved By: Diddy The Kong

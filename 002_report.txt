@@ -1,19 +1,19 @@
 MARIO OFFICE REPORT
 
-Date: 2019-08-14
+Date: 2019-10-26
 
-Employee: Boo The Ghost
+Employee: Bowser The Jerk
 
 Ongoing Tasks:
-	Making photo copies from Luigi's photoshoot
-	Organizing the office reunion party
+	Buying extra stabples
+	Bending all paperclips back into shape
 
 Completed Tasks:
-	Beat level 4
-	Brought Bowser his coffee
+	Stomped 100 mushrooms
+	Stomped 10 mushrooms
 
 Problems:
-	I don' thinkg Peach is worth it
 	I can't beat Level 10
+	I don't want to automate with Python
 
-Approved By: Donkey The Kong
+Approved By: Wario The Fat
