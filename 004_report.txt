@@ -1,0 +1,19 @@
+MARIO OFFICE REPORT
+
+Date: 2019-03-13
+
+Employee: Toad The Mushroom
+
+Ongoing Tasks:
+	Working on Level 5
+	Working on Level 6
+
+Completed Tasks:
+	Cleaned the file cabinet
+	Made Mario and Wario come to terms
+
+Problems:
+	I don't want to automate with Python
+	I can't beat Level 9
+
+Approved By: Luigi The Brother

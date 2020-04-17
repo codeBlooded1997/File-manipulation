@@ -1,0 +1,19 @@
+MARIO OFFICE REPORT
+
+Date: 2019-04-03
+
+Employee: Mario The Plumber
+
+Ongoing Tasks:
+	Buying extra stabples
+	Trying to save the princess
+
+Completed Tasks:
+	Finished Game of Thrones during work hours
+	Stomped 50 mushrooms
+
+Problems:
+	I think I have a crush on my boss
+	I don't want to automate with Python
+
+Approved By: Bowser The Jerk

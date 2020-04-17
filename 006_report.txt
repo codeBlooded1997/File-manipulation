@@ -1,0 +1,19 @@
+MARIO OFFICE REPORT
+
+Date: 2019-04-06
+
+Employee: Boo The Ghost
+
+Ongoing Tasks:
+	Working on Level 5
+	Working on Level 7
+
+Completed Tasks:
+	Beat level 4
+	Beat level 4
+
+Problems:
+	I can't beat Level 10
+	I want more vacation days
+
+Approved By: Daisy The Other One
