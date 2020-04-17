@@ -1,11 +1,21 @@
+# For accessing and writing data in the file
 import static_data
+# For generating random date
 import datetime
+# For picking random data form static_data file
 import random
+# For creating random characters in file names
 import string
+# For controlling the operating system(moving and deleting files and ...)
+import os
 
 def generate_reports(num):
 
     for current_num in range(num):
+        """
+        This function reads existing data from the static_data files
+        and uses the data to generate random file.
+        """
         # Generate the right filename of the correct length
         file_name = str(current_num + 1).zfill(3) + '_report.txt'   # zfill() populates with zero
 
@@ -58,5 +68,13 @@ def generate_bloat(num):
         f = open(file_name, 'w')
         f.write('Trollollolol ;)')
 
+def delete_files():
+    """
+    This function delets the files with .txt extention.
+    """
+    for file_name in os.listdir(os.getcwd()):   # getcwd : get Current Working Directory
+        if file_name.endswith('.txt'):      # endswith() looks at the files endings
+            os.remove(file_name)
 #generate_reports(10)
-generate_bloat(5)
+#generate_bloat(5)
+delete_files()
