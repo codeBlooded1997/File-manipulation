@@ -1,0 +1,19 @@
+MARIO OFFICE REPORT
+
+Date: 2019-06-05
+
+Employee: Peach The Helpless
+
+Ongoing Tasks:
+	Making photo copies from Luigi's photoshoot
+	Organizing the office reunion party
+
+Completed Tasks:
+	Stomped 50 mushrooms
+	Stomped 10 mushrooms
+
+Problems:
+	I don't want to automate with Python
+	I don' thinkg Peach is worth it
+
+Approved By: Bill The Bullet

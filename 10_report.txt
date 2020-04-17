@@ -1,0 +1,19 @@
+MARIO OFFICE REPORT
+
+Date: 2019-03-23
+
+Employee: Toad The Mushroom
+
+Ongoing Tasks:
+	Trying to save the princess
+	Working on Level 8
+
+Completed Tasks:
+	Beat level 4
+	Stomped 100 mushrooms
+
+Problems:
+	Sometimes I feel empty inside
+	I want more vacation days
+
+Approved By: Boo The Ghost

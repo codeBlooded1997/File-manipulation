@@ -1,0 +1,19 @@
+MARIO OFFICE REPORT
+
+Date: 2019-06-18
+
+Employee: Toad The Mushroom
+
+Ongoing Tasks:
+	Working on Level 6
+	Bending all paperclips back into shape
+
+Completed Tasks:
+	Beat level 3
+	Stomped 10 mushrooms
+
+Problems:
+	I don't want to automate with Python
+	I can't beat Level 9
+
+Approved By: Boo The Ghost

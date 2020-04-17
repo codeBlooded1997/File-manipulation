@@ -1,0 +1,19 @@
+MARIO OFFICE REPORT
+
+Date: 2019-11-02
+
+Employee: Donkey The Kong
+
+Ongoing Tasks:
+	Working on Level 7
+	Working on Level 8
+
+Completed Tasks:
+	Stomped 100 mushrooms
+	Beat level 1
+
+Problems:
+	I just had my tonsils removed
+	I don't want to automate with Python
+
+Approved By: Waluigi The Skinny

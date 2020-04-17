@@ -75,6 +75,6 @@ def delete_files():
     for file_name in os.listdir(os.getcwd()):   # getcwd : get Current Working Directory
         if file_name.endswith('.txt'):      # endswith() looks at the files endings
             os.remove(file_name)
-#generate_reports(10)
-#generate_bloat(5)
-delete_files()
+generate_reports(10)
+generate_bloat(5)
+#delete_files()
