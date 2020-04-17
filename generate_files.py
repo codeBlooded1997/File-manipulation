@@ -1,10 +1,44 @@
 import static_data
+import datetime
+import random
 
 def generate_reports(num):
 
     for current_num in range(num):
-        # Constructing the file name
+        # Generate the right filename of the correct length
         file_name = str(current_num + 1).zfill(3) + '_report.txt'   # zfill() populates with zero
-        print(file_name)
 
-generate_reports(15)
+        # Create the file, in the write mode
+        f = open(file_name, 'w')
+
+        # Generate all of the text content of our dummy report files
+        date = str(datetime.date(2019,1,1) + datetime.timedelta(random.randint(1,365)))
+
+        # Chosing 10 random eomployee names from static_data files
+        employee = random.choice(static_data.names)
+
+        # Choosing 10 random ongoing task form the static_data file
+        ongoing_tasks = '\t' + random.choice(static_data.ongoing_tasks) + '\n' \
+                        '\t' + random.choice(static_data.ongoing_tasks) + '\n'
+
+        completed_tasks = '\t' + random.choice(static_data.completed_tasks) + '\n' \
+                          '\t' + random.choice(static_data.completed_tasks) + '\n'
+
+        problems = '\t' + random.choice(static_data.problems) + '\n' \
+                   '\t' + random.choice(static_data.problems) + '\n'
+
+        approved_by = random.choice(static_data.names)
+
+        # Fully construnct contetn of dummy report file
+        report_content = 'MARIO OFFICE REPORT\n\n' + \
+                         'Date: '               + date + '\n\n' + \
+                         'Employee: '           + employee + '\n\n' + \
+                         'Ongoing Tasks:\n'     + ongoing_tasks + '\n' + \
+                         'Completed Tasks:\n'   + completed_tasks + '\n' + \
+                         'Problems:\n'          + problems + '\n' + \
+                         'Approved By: '        + approved_by
+
+        # Write the content to the file
+        f.write(report_content)
+
+generate_reports(10)
