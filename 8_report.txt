@@ -1,19 +1,19 @@
 MARIO OFFICE REPORT
 
-Date: 2019-06-18
+Date: 2019-01-20
 
-Employee: Toad The Mushroom
+Employee: Daisy The Other One
 
 Ongoing Tasks:
-	Working on Level 6
-	Bending all paperclips back into shape
+	Posting Daysi's pictures to Instagram
+	Figuring out how to jump over man-eating plant
 
 Completed Tasks:
-	Beat level 3
 	Stomped 10 mushrooms
+	Finished Game of Thrones during work hours
 
 Problems:
-	I don't want to automate with Python
-	I can't beat Level 9
+	I want more vacation days
+	Waluigi has more sick days than me
 
-Approved By: Boo The Ghost
+Approved By: Luigi The Brother

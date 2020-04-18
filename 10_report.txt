@@ -1,19 +1,19 @@
 MARIO OFFICE REPORT
 
-Date: 2019-03-23
+Date: 2019-08-30
 
-Employee: Toad The Mushroom
+Employee: Daisy The Other One
 
 Ongoing Tasks:
+	Bending all paperclips back into shape
 	Trying to save the princess
-	Working on Level 8
 
 Completed Tasks:
-	Beat level 4
-	Stomped 100 mushrooms
+	File Mario's taxes
+	Cleaned the file cabinet
 
 Problems:
+	I miss watching The Office
 	Sometimes I feel empty inside
-	I want more vacation days
 
-Approved By: Boo The Ghost
+Approved By: Daisy The Other One

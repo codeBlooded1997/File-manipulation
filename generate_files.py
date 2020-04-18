@@ -73,7 +73,7 @@ def delete_files():
     This function delets the files with .txt extention.
     """
     for file_name in os.listdir(os.getcwd()):   # getcwd : get Current Working Directory
-        if file_name.endswith('.txt'):      # endswith() looks at the files endings
+        if file_name.endswith('.txt'):      # endswith()
             os.remove(file_name)
 generate_reports(10)
 generate_bloat(5)

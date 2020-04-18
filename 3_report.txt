@@ -1,19 +1,19 @@
 MARIO OFFICE REPORT
 
-Date: 2019-11-02
+Date: 2019-09-05
 
-Employee: Donkey The Kong
+Employee: Yoshi The Green Guy
 
 Ongoing Tasks:
-	Working on Level 7
-	Working on Level 8
+	Buying extra stabples
+	Making photo copies from Luigi's photoshoot
 
 Completed Tasks:
-	Stomped 100 mushrooms
-	Beat level 1
+	Finished Game of Thrones during work hours
+	Stomped 10 mushrooms
 
 Problems:
-	I just had my tonsils removed
-	I don't want to automate with Python
+	Waluigi has more sick days than me
+	Waluigi has more sick days than me
 
-Approved By: Waluigi The Skinny
+Approved By: Yoshi The Green Guy
