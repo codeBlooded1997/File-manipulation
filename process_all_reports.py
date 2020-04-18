@@ -4,7 +4,7 @@ import shutil
 
 subdirectory_name = 'Flagged Files'
 
-
+compression_type = 'zip'
 
 def process_all_reports():
     """
@@ -20,15 +20,19 @@ def process_all_reports():
         if file_name.endswith('_report.txt'):
             # Renaming the file
             os.rename(file_name, file_name.lstrip('0'))     # Left strip
-            new_file_name = file_name.lstrip('0')
+            file_name = file_name.lstrip('0')
             # Search the report file
             criteria = "I don't want to automate with Python"
             # Checkig if it meets the criteria
-            criteria_met = search_for_criteria(new_file_name, criteria)
+            criteria_met = search_for_criteria(file_name, criteria)
             # If reportfile meets criteria
             if criteria_met == True:
                 # Process that file
-                process_report(new_file_name)
+                process_report(file_name)
+
+    # Compress subdrectory, because we are done with all report files
+    shutil.make_archive(subdirectory_name, compression_type, subdirectory_name)
+
 
 def search_for_criteria(file_name, criteria):
     """
@@ -84,8 +88,9 @@ def process_report(file_name):
 def delete_files():
     if os.path.isdir(subdirectory_name):
         shutil.rmtree(subdirectory_name)
-    print('deletd')
+    if os.path.isfile(subdirectory_name + '.' + compression_type):
+        os.remove(subdirectory_name + '.' + compression_type)
 
 
 delete_files()
-process_all_reports()
+#process_all_reports()
