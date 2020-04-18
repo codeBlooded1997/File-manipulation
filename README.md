@@ -1,4 +1,3 @@
-# File manipulation
 
 <h1>File manipulation</h1>
 <p>Arian Aghnaei</p>
