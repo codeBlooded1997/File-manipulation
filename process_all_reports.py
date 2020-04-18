@@ -1,4 +1,10 @@
 import os
+import shutil
+
+
+subdirectory_name = 'Flagged Files'
+
+
 
 def process_all_reports():
     """
@@ -6,8 +12,9 @@ def process_all_reports():
     zeros from the begining of the report files
     """
     # Making a new directory to store the flagged files later
-    if os.path.isdir('Flagged Files') == False:
-        os.mkdir('Flagged Files')
+
+    #if os.path.isdir(subdirectory_name) == False:
+    os.mkdir(subdirectory_name)
 
     for file_name in os.listdir(os.getcwd()):
         if file_name.endswith('_report.txt'):
@@ -64,14 +71,21 @@ def process_report(file_name):
                          approver_employee.upper() + \
                          'APPROVED THIS' + \
                          'COPY OF REPORT: \n\n')
-                         
+
     f = open(file_name)
     flagged_report.write(f.read())
 
     # Moving the file into the Directory
-    os.rename(flagged_report_filename, os.path.join('Flagged Files', flagged_report_filename))
+    os.rename(flagged_report_filename, os.path.join(subdirectory_name, flagged_report_filename))
 
     return
 
 
+def delete_files():
+    if os.path.isdir(subdirectory_name):
+        shutil.rmtree(subdirectory_name)
+    print('deletd')
+
+
+delete_files()
 process_all_reports()
