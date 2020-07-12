@@ -5,7 +5,7 @@
 <p>Python 3.8</p>
 
 <h3>Generating and manipulating files using python</h3>
-<p>In this project I developed two python scriped for manipulating the file in the unix os.</p>
+<p>In this open source project I developed two python scriped for manipulating the file in the unix os.</p>
 <p>It is very useful when we want to read, write , scan and search files for specific things and compressing them.</p>
 
 <p>All these technologies are really powerfull when the combined with webscraping, email automation and regex.</p>
@@ -21,3 +21,5 @@
 </ul>
 <br>
 
+<p>The code is fully commented so you can use for learning and also your personal projects.</p>
+<p>I really want to know what other developers like you are thinking about my code so don't hesitete to contact me and share your idea about this piece of code.</p>
